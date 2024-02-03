@@ -1,4 +1,8 @@
 /* Base */
+#more {
+  display: none;
+}
+
 html {
   overflow-x: hidden;
 }
